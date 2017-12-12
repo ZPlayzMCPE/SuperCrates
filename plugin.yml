@@ -1,10 +1,10 @@
-name: SuperCrates
+name: CratesReloaded
 main: BajanVlogs\SuperCrates\Main
-version: 0.0.1
+version: 1.0.0-B1
 api: 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0ALPHA11
 load: POSTWORLD
-author: BajanVlogs
-description: Custom crates that will make your server better
+author: VMPE Development Team
+description: Custom crates that will make your server better than ever
 
 commands:
   givekey:
